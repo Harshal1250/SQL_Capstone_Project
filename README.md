@@ -1,1 +1,2 @@
 # SQL_Capstone_Project
+Developed a robust SQL project showcasing advanced data extraction techniques through nested queries. Successfully implemented SQL queries for adding new courses and enrolling students, contributing to efficient database management. The project also includes meticulously crafted SQL queries for retrieving comprehensive student and course-related information. The project offers a valuable resource for SQL enthusiasts and practitioners seeking to explore and enhance their skills in data manipulation and database management
